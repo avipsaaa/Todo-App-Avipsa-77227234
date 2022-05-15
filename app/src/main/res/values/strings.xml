@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo\'s</string>
+    <string name="action_settings">About App</string>
+    <string name="enter_todo_hint">Enter task here</string>
+    <string name="today_calendar_button">Today</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Task Due</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="next_week">Next Month</string>
+    <string name="radio_high">Top Priority</string>
+    <string name="radio_low">Normal</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">A simple app where you can note down the things you want to do later in case your forget it.</string>
+</resources>

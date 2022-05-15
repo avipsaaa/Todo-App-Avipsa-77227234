@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fab_shape">
+        <item name="cornerSize">24%</item>>
+    </style>
+</resources>
